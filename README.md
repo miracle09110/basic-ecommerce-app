@@ -38,7 +38,7 @@ The following cases can be found in `main.js` marked by
 
 ### Custom cases
 
-To test different cases, simply call add to the cart between the start and end indicator in `main.js`
+To test different cases, simply call .`add(item)` to the cart between the start and end indicator in `main.js`
 
 ```
 //Example
